@@ -17,7 +17,7 @@ A responsive Amazon homepage clone built using HTML5 and CSS3.
 - CSS3
 
 ## 📸 Project Preview
-![Amazon Clone Homepage](screenshots/Screenshot%202026-06-20%20090004.png)
+![Amazon Clone Homepage](screenshots/amazon-homepage.png)
 
 ## 📂 Project Structure
 
