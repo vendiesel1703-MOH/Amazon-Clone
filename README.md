@@ -16,32 +16,34 @@ A responsive Amazon homepage clone built using HTML5 and CSS3.
 - HTML5
 - CSS3
 
+## 📸 Project Preview
+![Amazon Clone Homepage](screenshots/Screenshot%202026-06-20%20090004.png)
+
 ## 📂 Project Structure
 
 Amazon-Clone/
-│
 ├── index.html
 ├── style.css
-├── hero_image.jpg
-├── box1_image.jpg
-├── box2_image.jpg
-├── box3_image.jpg
-├── box4_image.jpg
-├── box5_image.jpg
-├── box6_image.jpg
-├── box7_image.jpg
+├── screenshots/
 └── README.md
 
-## 📸 Preview
+## 🚀 What I Learned
 
-Amazon Homepage Clone Interface
+- HTML5 Semantic Elements
+- CSS3 Styling
+- Flexbox Layout
+- Responsive Web Design
+- Navigation Bar Design
+- Landing Page Development
+- Project Documentation
 
-## 🎯 Learning Outcomes
+## 🔮 Future Improvements
 
-- HTML Layout Design
-- CSS Flexbox
-- Responsive Design
-- Web Development Fundamentals
+- Add JavaScript functionality
+- Add Product Search Feature
+- Add Shopping Cart
+- Improve Mobile Responsiveness
+- Deploy Live Version
 
 ## 👨‍💻 Author
 
