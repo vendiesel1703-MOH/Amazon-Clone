@@ -2,19 +2,23 @@
 
 A responsive Amazon homepage clone built using HTML5 and CSS3.
 
-## 🚀 Features
+## Live Demo
 
-- Amazon-inspired Navigation Bar
+🔗 https://vendiesel1703-moh.github.io/Amazon-Clone/
+
+## Features
+- Responsive Amazon-inspired UI
+- Navigation Bar
 - Search Bar
-- Hero Section
 - Product Categories
+- Hero Banner
 - Responsive Layout
-- Modern UI Design
 
-## 🛠 Technologies Used
-
+## Technologies Used
 - HTML5
 - CSS3
+- GitHub Pages
+
 
 ## 📸 Project Preview
 ![Amazon Clone Homepage](screenshots/amazon-homepage.png)
@@ -36,14 +40,6 @@ Amazon-Clone/
 - Navigation Bar Design
 - Landing Page Development
 - Project Documentation
-
-## 🔮 Future Improvements
-
-- Add JavaScript functionality
-- Add Product Search Feature
-- Add Shopping Cart
-- Improve Mobile Responsiveness
-- Deploy Live Version
 
 ## 👨‍💻 Author
 
